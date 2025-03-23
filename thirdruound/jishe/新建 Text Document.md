@@ -12,7 +12,7 @@
 部分一:
 ![alt text](Untitled-1.png)
 部分二：
-![alt text](Untitl14515ed-1.png)
+![alt text]([Untitl14515ed-1.png](https://github.com/hkjkdzc/-/blob/main/thirdruound/jishe/Untitl14515ed.png))
 
 场景actor: 
 可随水流方向旋转的水车
