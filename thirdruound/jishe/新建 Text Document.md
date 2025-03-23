@@ -10,7 +10,7 @@
 关卡流程: 关卡分为两个部分，第一个部分需要玩家熟悉游戏的移动操作，并对如何与场景中的物体互动有初步的认知。第二部分则是需要玩家进行结合第一分部进行一定的思考以找到过关方法。
 
 部分一:
-![[alt text](https://github.com/hkjkdzc/-/blob/main/thirdruound/jishe/Untitled.png)
+![alt text](https://github.com/hkjkdzc/-/blob/main/thirdruound/jishe/Untitled.png)
 部分二：
 ![alt text](https://github.com/hkjkdzc/-/blob/main/thirdruound/jishe/Untitl14515ed.png)
 
