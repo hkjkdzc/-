@@ -9,8 +9,9 @@
 关卡目的: 推球闯关
 
 关卡流程: 从左到右分三个区域，玩家将要通过“吸引”和“排斥”效果，将一个N极磁球运送到终点
+![alt text](https://github.com/hkjkdzc/-/blob/main/thirdruound/jishe/Untitlsdaded.png)
 ![alt text](https://github.com/hkjkdzc/-/blob/main/thirdruound/jishe/Untitlsdaded%20-%20%E5%89%AF%E6%9C%AC.png)
-![alt text](Untitlsdaded-1.png)
+
 
 
 场景actor: 
